@@ -1,0 +1,22 @@
+p{
+    font-size:xx-large;
+    color:blue;
+    text-align: center;
+}
+#linhaUm{
+    background-color:chartreuse;
+    color: rgb(74, 6, 184);
+    
+}
+#linhaDois{
+    transition-property: box-shadow, transform;
+    transition-duration: 350ms;
+    transition-timing-function: ease;
+    background-color: rgb(149, 241, 153);
+    
+}
+*{
+    color: aqua;
+    text-align: center;
+    background-color: black;
+}
